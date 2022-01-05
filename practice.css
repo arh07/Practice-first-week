@@ -1,0 +1,71 @@
+body {
+    font-family: 'Spline Sans', sans-serif;
+
+}
+
+.republic {
+    text-align: center;
+    font-size: 40px;
+}
+
+.bdflag {
+    display: flex;
+    margin-top: -200px;
+}
+
+.bd {
+    width: 50%;
+    padding: 5%;
+
+}
+
+.a {
+    text-decoration: none;
+    width: 15%;
+    padding: 2%;
+    color: white;
+
+    background-image: linear-gradient(green, red, green);
+}
+
+#fwidth {
+    width: auto;
+}
+
+.dk {
+    width: 400px;
+    border: 3px solid orange;
+    padding: 5px;
+    text-align: justify;
+    box-shadow: 4px 4px 12px olive;
+    border-radius: 10px;
+    border-image: linear-gradient(tomato, cyan);
+    border-image-slice: 1;
+}
+
+.dk img {
+    width: 100%;
+
+}
+
+.second-sec {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+#a {
+    border: 3px solid rgb(153, 241, 20);
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px rgb(148, 228, 83);
+    border-image: linear-gradient(blue, orange);
+    border-image-slice: 4;
+}
+
+.c {
+    margin-left: 37%;
+    padding: 10px 14px;
+    background-image: linear-gradient(45deg, red, green, red);
+    color: white;
+    font-weight: 700;
+}
